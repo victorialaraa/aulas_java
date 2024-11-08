@@ -2,7 +2,7 @@ package atividades.atividades_poo.conta;
 
 import java.util.Scanner;
 
-import atividades.atividades_poo.utils.cores;
+import atividades.atividades_poo.conta.utils.cores;
 
 public class Menu {
 
