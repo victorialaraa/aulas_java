@@ -2,11 +2,20 @@ package atividades.atividades_poo.conta;
 
 import java.util.Scanner;
 
-import atividades.atividades_poo.conta.utils.cores;
+import atividades.atividades_poo.conta.util.cores;
+import atividades.atividades_poo.conta.model.Conta;
 
 public class Menu {
 
 	public static void main(String[] args) {
+		
+		Conta c1 = new Conta(1, 123, 1, "Victória", 10000.0f);
+		c1.visualizar();
+		c1.sacar(12000.0f);
+		c1.visualizar();
+		c1.depositar(5000.0f);
+		c1.visualizar();
+		
 
 		Scanner leia = new Scanner(System.in);
 

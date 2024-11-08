@@ -1,4 +1,4 @@
-package atividades.atividades_poo.conta.utils;
+package atividades.atividades_poo.conta.util;
 
 public class cores {
 
