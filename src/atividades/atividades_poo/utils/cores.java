@@ -1,4 +1,4 @@
-package atividades.Conta.Util;
+package atividades.atividades_poo.utils;
 
 public class cores {
 

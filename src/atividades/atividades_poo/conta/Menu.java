@@ -1,7 +1,8 @@
-package atividades.Conta;
+package atividades.atividades_poo.conta;
 
 import java.util.Scanner;
-import atividades.Conta.Util.cores;
+
+import atividades.atividades_poo.utils.cores;
 
 public class Menu {
 
